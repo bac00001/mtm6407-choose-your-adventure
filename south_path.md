@@ -1,4 +1,4 @@
-#The Mysterious Canves
+#The Mysterious Cave
 
 Venturing down the south-bound path, you discover a cryptic cave entrance veiled in darkness. Strange whispers echo, creating an enigmatic atmosphere that sends shivers down your spine.
 
