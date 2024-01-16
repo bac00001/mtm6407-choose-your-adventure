@@ -4,6 +4,7 @@ You find yourself standing at a crossroads in a mysterious forest. The air is th
 
 What would you do next?
 
+- [Go north.](north_path.md)
 - [Go south.](south_path.md)
 - [Go east.](east_path.md)
 - [Go west.](west_path.md)
