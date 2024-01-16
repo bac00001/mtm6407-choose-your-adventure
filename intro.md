@@ -3,4 +3,6 @@
 You find yourself standing at a crossroads in a mysterious forest. The air is thick with an otherworldly energy.
 
 What would you do next?
+
+- [Go east.](east_path.md)
 - [Go west.](west_path.md)
