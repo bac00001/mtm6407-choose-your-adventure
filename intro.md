@@ -9,3 +9,5 @@ What would you do next?
 - [Go east.](east_path.md)
 - [Go west.](west_path.md)
 - [Go northwest.](deadend_path.md)
+- [Go southeast.](southeast_path.md)
+- [Go northeast.](deadend_path.md)
